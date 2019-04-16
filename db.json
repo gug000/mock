@@ -1,9 +1,21 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+    {"id": 1,"name": "Jacky", "sex": 1, "age": 30},
+    {"id": 2,"name": "Jone Week", "sex": 2, "age": 22}
+    {"id": 3,"name": "Apha", "sex": 1, "age": 16}
+    {"id": 4,"name": "Linkon", "sex": 2, "age": 25}
+    {"id": 5,"name": "Seman Jon", "sex": 1, "age": 32}
+  ],
+  "comments": [
+    { "id": 1, "name": "Jacky", "sex": 1, "date": "2019-01-13","body": "id labore ex et quam laborum", "postId": 1 },
+    { "id": 2, "name": "Jacky", "sex": 1, "date": "2019-01-13","body": "quo vero reiciendis velit similique earum", "postId": 1 },
+    { "id": 3, "name": "Jone Week", "sex": 2, "date": "2018-12-13","body": "odio adipisci rerum aut animi", "postId": 2 },
+    { "id": 4, "name": "Jacky", "sex": 1, "date": "2019-01-13","body": "vero eaque aliquid doloribus et culpa", "postId": 1 },
+    { "id": 5, "name": "Jone Week", "sex": 2, "date": "2017-09-26","body": "et fugit eligendi deleniti quidem qui sint nihil autem", "postId": 2 },
+    { "id": 6, "name": "Linkon", "sex": 2, "date": "2018-03-06","body": "quo vero reiciendis velit similique earum", "postId": 3 },
+    { "id": 7, "name": "Jacky", "sex": 1, "date": "2019-01-13","body": "quo vero reiciendis velit similique earum", "postId": 1 },
+    { "id": 8, "name": "Seman Jon", "sex": 1, "date": "2017-04-22","body": "quo vero reiciendis velit similique earum", "postId": 5 },
+    { "id": 9, "name": "Jacky", "sex": 1, "date": "2019-01-13","body": "quo vero reiciendis velit similique earum", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
